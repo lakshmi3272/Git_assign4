@@ -1,1 +1,2 @@
 Local commit 2
+Amended contect
